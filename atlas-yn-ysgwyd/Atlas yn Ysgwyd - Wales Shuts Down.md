@@ -1,4 +1,4 @@
-![Atlas yn Ysgwyd book cover](atlas-yn-ysgwyd.webp)
+![Atlas yn Ysgwyd book cover](covers/atlas-yn-ysgwyd.webp)
 
 A dramatic book cover design without text for 'Atlas yn Ysgwyd,' a Welsh reimagining of Atlas Shrugged. The cover features a mountainous landscape with towering industrial ruins in the foreground, symbolizing the collapse of society. The background shows dark storm clouds with beams of light breaking through, representing resilience and hope. The color palette features dark tones with flashes of light, giving the cover an epic and reflective mood, without any figure or globe in the scene.
 
@@ -66,16 +66,16 @@ Owain is a former mining magnate who is outwardly supporting the government’s 
 ### Setting:
 #### 1. **Port Talbot Steelworks:**
 
-![](port-talbot-decline.webp)
+![](illustrations/port-talbot-decline.webp)
 Once the industrial heart of Wales, Port Talbot has become a battleground between Siân Reardon and the government. The steelworks is under constant pressure to reduce emissions, despite producing the finest steel in Europe. Port Talbot becomes a symbol of resistance against the overwhelming pressure to conform to unrealistic government mandates.
 
 #### 2. **Cardiff:**
-![The Senedd in Cardiff in a state of decline and disrepair](ruined-grand-senedd-cardiff.webp)
+![The Senedd in Cardiff in a state of decline and disrepair](illustrations/ruined-grand-senedd-cardiff.webp)
 As the political hub, Cardiff is where Gwenllian Jones and her bureaucrats pass endless laws that choke innovation. The Welsh Senedd (parliament) is portrayed as out of touch with the realities faced by business owners and workers. The city is full of grand government buildings, but the infrastructure is crumbling, and services are failing.
 
 #### 3. **Snowdonia / Brecon Beacons (Cwm Galt):**
 
-![](cwm-galt-eryri.webp)
+![](illustrations/cwm-galt-eryri.webp)
 This hidden valley deep in the Welsh mountains is where Iwan Galt gathers the most brilliant minds of Wales. The valley is a utopia for innovators, free from government interference, where new inventions and businesses thrive. Here, the brightest minds of Wales live in secret, developing technologies that could save the country if only they were allowed to operate freely.
 
 ---
@@ -181,7 +181,7 @@ Owain’s philosophy is rooted in the belief that wealth comes from the ability 
 #### **The Collapse of Welsh Rail**
 Wales’ rail infrastructure, once the backbone of its economy, is a central element of the story. As Dafydd struggles to modernize *Rheilffyrdd Cymru*, the government imposes endless restrictions, forcing the railways into ruin.
 
-![](cardiff-train-station-in-decline.webp)
+![](illustrations/cardiff-train-station-in-decline.webp)
 - **Event: Nationalization of Rail**
 A major turning point in the novel is the nationalization of the rail industry. Gwenllian Jones celebrates this as a triumph for "the people," while Dafydd watches helplessly as services degrade further. Trains run late or not at all, and industrial towns that relied on rail transport are cut off, leading to mass unemployment and unrest.
 
