@@ -1,4 +1,4 @@
-![](atlas-shrugged-welsh-version.webp)
+![](covers/atlas-shrugged-welsh-version.webp)
 
 `atlas shrugged but set in Wales`
 
