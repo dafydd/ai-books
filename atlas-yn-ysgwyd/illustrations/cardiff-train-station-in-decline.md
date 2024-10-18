@@ -1,0 +1,3 @@
+![[cardiff-train-station-in-decline.webp]]
+
+A detailed painting of Cardiff train station in decline. The once-bustling station is shown with cracked platforms, broken signage, and rusting rails. The station's iconic clock tower and architecture are crumbling, with overgrown vegetation creeping through cracks in the concrete. There are no passengers, and the scene feels abandoned and forgotten. The sky is overcast, with dark clouds creating a melancholic atmosphere, symbolizing the decay and decline of this once important transport hub. The color palette is muted with tones of grey and brown, emphasizing the sense of neglect.
