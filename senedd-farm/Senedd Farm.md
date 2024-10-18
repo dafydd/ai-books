@@ -1,4 +1,4 @@
-![[animal-farm.webp]]
+![](animal-farm.webp)
 
 `Animal farm set in the senedd, Cardiff bay`
 
@@ -258,22 +258,22 @@ By the end of *Senedd Farm*, the farm is in a state of near-collapse. The **gree
 
 `Cover art for the book please`
 
-![[senedd-farm-1.webp]]
+![](senedd-farm-1.webp)
 
 A satirical book cover for 'Senedd Farm', a reimagining of George Orwell's Animal Farm set in the Welsh Senedd in Cardiff Bay. The cover shows an imposing building resembling the Welsh Senedd, overgrown with vines, symbolizing decay and failed leadership. In front of the building, animals such as pigs in suits and sheep are seen holding protest signs with slogans like 'Fairness for All' and 'Green is Good'. A large, bronze statue of a pig, standing in a commanding pose, looms over the scene. The title 'Senedd Farm' is bold and prominent, using a modern font, with a subtitle 'All Animals Are Equal... But Some Are More Equal Than Others'. The colors are muted, with a mix of greens and browns, evoking the themes of decay and corruption.
 
-![[senedd-farm-2.webp]]
+![](senedd-farm-2.webp)
 
 A satirical book cover for 'Senedd Farm', a reimagining of George Orwell's Animal Farm set in the Welsh Senedd in Cardiff Bay. The cover prominently features the modern Welsh Senedd building in a state of disrepair, with vines growing over its glass and steel structure, symbolizing decay. In front of the building, animals such as pigs in suits and sheep are holding protest signs with slogans like 'Fairness for All' and 'Green is Good'. A large bronze statue of a pig stands in a commanding pose near the Senedd building. The title 'Senedd Farm' is displayed boldly, with the subtitle 'All Animals Are Equal... But Some Are More Equal Than Others.' The color palette includes muted tones of green, brown, and grey, emphasizing themes of corruption, decay, and failed leadership.
 
-![[senedd-farm-3.webp]]
+![](senedd-farm-3.webp)
 
 A satirical book cover for 'Senedd yr Anifeiliaid', a reimagining of George Orwell's Animal Farm set in the Welsh Senedd in Cardiff Bay. The cover prominently features the modern Welsh Senedd building in a state of disrepair, with vines growing over its glass and steel structure, symbolizing decay. In front of the building, animals such as pigs in suits and sheep are holding protest signs. A large bronze statue of a pig stands in a commanding pose near the Senedd building. The title 'Senedd yr Anifeiliaid' is displayed boldly, with the subtitle 'All Animals Are Equal... But Some Are More Equal Than Others.' The color palette includes muted tones of green, brown, and grey, emphasizing themes of corruption, decay, and failed leadership.
 
-![[20mph-limo.webp]]
+![](20mph-limo.webp)
 A playful cartoon of a pig in a suit, marching confidently in front of a limousine while holding a big red flag. The pig is dressed in a formal business suit, with a determined expression, as he leads the way with the flag fluttering in the air. Behind him, a sleek limousine follows, symbolizing wealth and power. The red flag is large and bold, contrasting with the pig's formal attire. The overall scene is humorous, combining elements of authority, symbolism, and satire.
 
-![[cardiff-airport.webp]]
+![](cardiff-airport.webp)
 
-![[rhoose-airport.webp]]
+![](rhoose-airport.webp)
 A detailed painting of a crumbling airport with no visitors, capturing the sense of decay and abandonment. The airport entrance is in a state of disrepair, with cracks in the pavement, overgrown vegetation, and broken windows. A faded Welsh flag hangs over the entrance, fluttering weakly in the wind. The scene is empty and desolate, with a few rusting airplanes visible in the background and a cloudy, overcast sky adding to the melancholic mood. The overall tone is somber, symbolizing the collapse of a once-bustling hub.
