@@ -46,6 +46,7 @@ Set in a future Wales where the government has seized control of every major ind
 ---
 
 ### Characters:
+
 #### 1. **Dafydd Taggart** (*Dagny Taggart*):
 Dafydd is the managing director of *Rheilffyrdd Cymru*, a rail company responsible for the remaining rail infrastructure that keeps Wales’ economy from collapsing entirely. He’s fiercely independent, pragmatic, and deeply frustrated by the government’s endless regulations. While trying to modernize the aging railways, Dafydd faces resistance from political leaders and union officials who prioritize power over progress. 
 
@@ -56,6 +57,8 @@ Iwan is a brilliant Welsh engineer and inventor, originally working in green ene
 Siân owns and runs *Dur Cymru*, the last steelworks in Port Talbot still operating at a fraction of its former glory. Siân is a fierce industrialist who has perfected a new type of durable steel alloy that could revolutionize Wales' infrastructure. However, she is constantly under attack by the government’s “green agenda” policies and forced to supply her steel at government-set prices. Her company teeters on the brink of bankruptcy, despite having the best product on the market.
 
 #### 4. **Gwenllian Jones** (*James Taggart*):
+
+![Gwenllian Jones](characters/gwenllian.webp)
 Gwenllian is a self-serving politician who heads the Welsh Economic Council. She is obsessed with creating a utopia of "fairness" and "equality" through regulation and wealth redistribution. Under her leadership, key industries are nationalized, and massive public works programs (funded by unsustainable borrowing) are created, but all lead to inefficiency and eventual collapse. Gwenllian ignores the real crisis, blaming industry leaders for being greedy while praising the failing government policies.
 
 #### 5. **Owain Pritchard** (*Francisco d'Anconia*):
@@ -132,6 +135,7 @@ Great! Let's dive even deeper into some of the key elements of this Welsh reimag
 
 ### **Key Characters (Expanded)**
 
+![Dafydd Taggart](characters/dafydd-taggart.webp)
 #### **Dafydd Taggart** (Dagny Taggart)
 Dafydd is a relentless entrepreneur who has spent his life building and modernizing *Rheilffyrdd Cymru* (Welsh Railways). He's deeply invested in seeing Wales prosper through infrastructure and innovation. His central conflict is his loyalty to his business and country, while the government’s interventions gradually destroy everything he has worked for.
 
@@ -143,6 +147,7 @@ Dafydd's central belief is that individual effort and innovation drive progress.
 
 ---
 
+![Iwan Galt](characters/iwan-galt.webp)
 #### **Iwan Galt** (John Galt)
 Iwan Galt represents the intellectual and moral heart of the novel. A former energy engineer who pioneered Wales' green energy sector, Iwan grows disillusioned with the government’s heavy-handed approach to energy policies. His defection to *Cwm Galt* symbolizes the withdrawal of the mind from a society that punishes success.
 
@@ -154,6 +159,7 @@ In this version, "Who is Iwan Galt?" becomes a whispered question across Wales, 
 
 ---
 
+![Siân Reardon](characters/sian-reardon.webp)
 #### **Siân Reardon** (Hank Rearden)
 Siân, the owner of *Dur Cymru*, represents the last bastion of Welsh industrial might. Her steelworks in Port Talbot struggle under crippling emissions regulations, but she remains determined to keep her business running. Siân is a hard-nosed realist, deeply proud of her work and her contributions to Welsh society, but growing increasingly frustrated by the government's refusal to recognize the value of industry.
 
@@ -165,6 +171,7 @@ Siân often reflects on the paradox of being punished for her success. In one ke
 
 ---
 
+![Owain Prichard](characters/owain.webp)
 #### **Owain Pritchard** (Francisco d'Anconia)
 Owain plays the role of the charming, cynical former industrialist who has become a saboteur. Publicly, Owain supports the government’s energy policies, particularly the shift to wind and solar, while secretly orchestrating the collapse of government-led initiatives.
 
@@ -175,7 +182,6 @@ Owain Pritchard engineers a major blackout, crippling the national grid during a
 Owain’s philosophy is rooted in the belief that wealth comes from the ability to create and produce, not from controlling or redistributing it. In private conversations with Dafydd and Siân, he reveals his disgust at how the government has turned the concept of wealth into something shameful, while secretly benefiting from it.
 
 ---
-
 ### **Key Events (Expanded)**
 
 #### **The Collapse of Welsh Rail**
